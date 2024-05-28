@@ -59,7 +59,6 @@ composer update --prefer-dist --prefer-stable
 Once setup is done you need to follow the final setup with the installer .
 
 make sure you give READ/WRITE permission to your folder.
-```
 
 When you add module you have to update your composer.json file
 
