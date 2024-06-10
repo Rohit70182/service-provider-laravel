@@ -67,7 +67,7 @@
                     <li>|</li>
                     <li>
                       <p>© 2022 <a href="/remak-yii2-1644/"></a> All Rights
-                        Reserved. Powered By <a target="_blank" class="resrved-btn" href="https://www.toxsl.com">ToXSL Technologies</a>
+                        Reserved. Powered By <a target="_blank" class="resrved-btn" href="#">Rohit</a>
                       </p>
                     </li>
                   </ul>

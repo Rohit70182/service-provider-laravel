@@ -147,7 +147,7 @@ class AuthController extends Controller
      *           @OA\Schema(
      *              required={"email","password","device_token","device_name","device_type"},
      *              @OA\Property(property="password", type="string", format="password", example="admin@123"),
-     *              @OA\Property(property="email", type="email", format="email", example="sagar@toxsl.in"),
+     *              @OA\Property(property="email", type="email", format="email", example="rohit@gmail.in"),
      *              @OA\Property(property="device_token", type="string", format="string", example="DVtoken"),
      *              @OA\Property(property="device_name", type="string", format="string", example="DVname"),
      *              @OA\Property(property="device_type", type="integer", format="string", example="1")
@@ -392,7 +392,7 @@ class AuthController extends Controller
      *           mediaType="multipart/form-data",
      *           @OA\Schema(
      *              required={"email"},
-     *              @OA\Property(property="email", type="email", format="email", example="hello@toxsl.com")
+     *              @OA\Property(property="email", type="email", format="email", example="rohit@gmail.com")
      *           ),
      *       ),
      *   ),

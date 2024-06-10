@@ -1,10 +1,3 @@
-<!-- @copyright : ToXSL Technologies Pvt. Ltd. < www.toxsl.com >
-@author     : Shiv Charan Panjeta < shiv@toxsl.com >
-
-All Rights Reserved.
-Proprietary and confidential :  All information contained herein is, and remains
-the property of ToXSL Technologies Pvt. Ltd. and its partners.
-Unauthorized copying of this file, via any medium is strictly prohibited. -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -16,7 +9,7 @@ Unauthorized copying of this file, via any medium is strictly prohibited. -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="{{get_seo() ? get_seo()->description : 'project Description'}}">
     <meta name="keywords" content="{{get_seo() ? get_seo()->keywords : 'project keywords'}}">
-    <meta name="author" content="@toxsltech">
+    <meta name="author" content="@rohit">
     <!-- Title  -->
 
 

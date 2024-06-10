@@ -1,10 +1,10 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "Toxsl Tech Api Documentation",
+        "title": "Rohit Api Documentation",
         "contact": {
             "name": "developer",
-            "email": "shiv@toxsl.com"
+            "email": "rohit7305.rk@gmail.com"
         },
         "license": {
             "name": "Apache 2.0",
@@ -164,7 +164,7 @@
                                     "email": {
                                         "type": "email",
                                         "format": "email",
-                                        "example": "sagar@toxsl.in"
+                                        "example": "sagar@gmail.in"
                                     },
                                     "device_token": {
                                         "type": "string",
@@ -400,7 +400,7 @@
                                     "email": {
                                         "type": "email",
                                         "format": "email",
-                                        "example": "hello@toxsl.com"
+                                        "example": "hello@gmail.com"
                                     }
                                 },
                                 "type": "object"

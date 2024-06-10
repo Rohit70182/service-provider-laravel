@@ -9,11 +9,11 @@ use Illuminate\Routing\Controller as BaseController;
 
 /**
  * @OA\Info(
- *     title="Toxsl Tech Api Documentation",
+ *     title="Rohit Api Documentation",
  *     version="1.0.0",
  *     @OA\Contact(
  *         name="developer",
- *         email="shiv@toxsl.com"
+ *         email="rohit7305.rk@gmail.com"
  *     ),
  *     @OA\License(
  *         name="Apache 2.0",

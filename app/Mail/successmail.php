@@ -29,7 +29,7 @@ class successmail extends Mailable
      */
     public function build()
     {
-        return $this->from('toxsl@tech.in')
+        return $this->from('rohit7305.rk@gmail.in')
                     ->view('mail.mail');
     }
 }
