@@ -23,8 +23,8 @@ class AdminSeeder extends Seeder
          DB::table('users')->insert([
             [
                 'name' => 'Admin',
-                'email' => 'admin@rohit.in',
-                'password' => Hash::make('admin@1836'),
+                'email' => 'rohit@admin.com',
+                'password' => Hash::make('Rohit@1999'),
                 'role' => 0,
                 'customer_id' => Str::random(16),
             ]

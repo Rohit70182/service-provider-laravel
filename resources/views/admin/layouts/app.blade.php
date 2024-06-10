@@ -10,7 +10,7 @@
   <meta name="description" content="" />
   <meta name="author" content="@ozvidtech">
   <!-- Title  -->
-  <title>Whizzer</title>
+  <title>demo-service</title>
   <!-- <link href="{{ asset('public/css/app.css') }}" rel="stylesheet"> -->
   <!-- Favicon -->
   <link rel="shortcut icon" href="{{ asset('public/assets/images/Favicon.png') }}" />

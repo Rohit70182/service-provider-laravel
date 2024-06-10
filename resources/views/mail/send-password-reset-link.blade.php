@@ -33,7 +33,7 @@
                                 </tr>
                                 <tr>
                                     <td style="text-align:center;">
-                                    <img src="{{ asset('public/assets/images/logoleft.png') }}" alt="Whizzer" width="20%">
+                                    <img src="{{ asset('public/assets/images/logoleft.png') }}" alt="demo-service" width="20%">
                                     </td>
                                 </tr>
                                 <tr>
@@ -71,7 +71,7 @@
                         <td style="text-align:center;">
                             <p
                                 style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">
-                                &copy; <strong>Whizzer</strong> </p>
+                                &copy; <strong>demo-service</strong> </p>
                         </td>
                     </tr>
                     <tr>

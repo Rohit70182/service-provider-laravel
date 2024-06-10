@@ -17,7 +17,7 @@ use Spatie\Sitemap\SitemapGenerator;
 use Illuminate\Support\Facades\Mail;
 
 Route::get('sitemap', function () {
-    SitemapGenerator::create('http://localhost/whizzer-yii2-1836')->writeToFile('sitemap.xml');
+    SitemapGenerator::create('http://localhost/demo-service-yii2-1836')->writeToFile('sitemap.xml');
     return "sitemap created";
 });
     

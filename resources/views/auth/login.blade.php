@@ -13,7 +13,7 @@
       <div class="col-lg-12 col-12">
         <div class="site-logo">
           <a class="navbar-brand" href="{{url('/')}}">
-            <h1>Whizzer</h1>
+            <h1>demo-service</h1>
           </a>
         </div>
       </div>
@@ -101,10 +101,10 @@
               <li>|</li>
               <li><a class="text-dark" style="color: #6759ff !important;" href="{{url('/privacy')}}">Privacy Policy</a></li><br>
               <li>
-                <p>©Copyright <a href="/remak-yii2-1644/">Whizzer</a>  All Rights Reserved<a href="/remak-yii2-1644/"></a></p>
+                <p>©Copyright <a href="/remak-yii2-1644/">demo-service</a>  All Rights Reserved<a href="/remak-yii2-1644/"></a></p>
 			<li><br>
 			 <li>
-				<p><a target="_blank" class="resrved-btn" href="/remak-yii2-1644/"> Powered By Whizzer</a></p>
+				<p><a target="_blank" class="resrved-btn" href="/remak-yii2-1644/"> Powered By demo-service</a></p>
               </li>
               </li>
             </ul>

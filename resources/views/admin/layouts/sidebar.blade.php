@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-xl">
     <div class="navbar-brand">
       <a class="nav-link" href="{{ url('/dashboard') }}">
-        <img src="{{asset('public/assets/images/Favicon.png')}}" alt="Whizzer">
+        <img src="{{asset('public/assets/images/Favicon.png')}}" alt="demo-service">
       </a>
     </div>
 

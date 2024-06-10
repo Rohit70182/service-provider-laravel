@@ -13,7 +13,7 @@
       <div class="col-lg-12 col-12">
         <div class="site-logo">
           <a class="navbar-brand" href="{{url('/')}}">
-            <h1>Whizzer</h1>
+            <h1>demo-service</h1>
           </a>
         </div>
       </div>

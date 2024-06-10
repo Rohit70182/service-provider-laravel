@@ -39,7 +39,7 @@ class LoginController extends Controller
             ]);
 
             $checkRole = User::where('email',$request->email)->first();
-            if(empty($checkRole->role)){
+            if(empty($checkRole)){
                 return Redirect::back()->withInput()->withErrors([
                     'password' => 'Account not register please register account first.'
                 ]);

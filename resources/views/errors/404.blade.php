@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 
 <head>
-  <title>{{get_seo() ? get_seo()->title : 'Whizzer'}}</title>
+  <title>{{get_seo() ? get_seo()->title : 'demo-service'}}</title>
   <!-- Metas -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />

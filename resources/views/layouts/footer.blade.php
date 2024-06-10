@@ -5,7 +5,7 @@
              <div class="col-lg-3">
              <div class=" footer-logo">
                   <a href="{{url('/')}}">
-                      <h1>Whizzer</h1>
+                      <h1>demo-service</h1>
                   </a>
               </div>
              
@@ -39,12 +39,12 @@
               </ul>
               <ul class="app-link">
                   <li>
-                      <a href="https://apps.apple.com/ae/app/whizzer/id1596820554;">
+                      <a href="https://apps.apple.com/ae/app/demo-service/id1596820554;">
                           <img src="{{ asset('public/assets/images/App_Store_Badge.svg') }}" alt="">
                       </a>
                   </li>
                   <li>
-                      <a href="https://play.google.com/store/apps/details?id=ae.whizzer.app_customer;">
+                      <a href="https://play.google.com/store/apps/details?id=ae.demo-service.app_customer;">
                           <img class="gpay-img" src="{{ asset('public/assets/images/en-badge-web-generic (1).webp') }}" alt="">
                       </a>
                   </li>

@@ -51,7 +51,7 @@ return [
         
         
         'mailgun' => [
-            'domain' => env('MAILGUN_DOMAIN','mg.whizzer.ae'),
+            'domain' => env('MAILGUN_DOMAIN','mg.demo-service.ae'),
             'secret' => env('MAILGUN_SECRET', 'e50cacd205df0cc3004de3e17a5d3f79-162d1f80-8ff2ac06'),
             'transport' => 'mailgun',
             'host' => env('MAIL_HOST', 'smtp.mailgun.org'),

@@ -28,7 +28,7 @@ class bookingmail extends Mailable
      */
     public function build()
     {
-        return $this->from('whizzer')
+        return $this->from('demo-service')
                     ->view('view.bookingmail');
     }
 }

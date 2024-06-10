@@ -18,23 +18,23 @@
             "description": "API Server"
         },
         {
-            "url": "http://192.168.12.233/whizzer-yii2-1836/api",
+            "url": "http://192.168.12.233/demo-service-yii2-1836/api",
             "description": "local server"
         },
         {
-            "url": "http://192.168.11.130/whizzer-yii2-1836/api",
+            "url": "http://192.168.11.130/demo-service-yii2-1836/api",
             "description": "local server"
         },
         {
-            "url": "http://192.168.11.243/whizzer-yii2-1836/api",
+            "url": "http://192.168.11.243/demo-service-yii2-1836/api",
             "description": "local server"
         },
         {
-            "url": "http://192.168.2.190/whizzer-yii2-1836/api",
+            "url": "http://192.168.2.190/demo-service-yii2-1836/api",
             "description": "local server"
         },
         {
-            "url": "http://192.168.2.67/whizzer-yii2-1836/api",
+            "url": "http://192.168.2.67/demo-service-yii2-1836/api",
             "description": "local server"
         }
     ],
